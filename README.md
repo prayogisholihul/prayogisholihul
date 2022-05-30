@@ -2,6 +2,7 @@
 <h3 align="center">A native mobile developer enthusiast</h3>
 
 - 🔭 I’m currently internship on **Agree Mart**
+- ✉️  You can contact me at [prayogisholihul@gmail.com](mailto:prayogisholihul@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
