@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prayogi Sholihul</h1>
 <h3 align="center">A native mobile developer enthusiast</h3>
 
-- 🔭 I’m currently internship on [**Agree Mart**](https://agreeculture.id/)
 - ✉️  You can contact me at [prayogisholihul@gmail.com](mailto:prayogisholihul@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
