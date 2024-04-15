@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prayogi Sholihul</h1>
-<h3 align="center">A native mobile developer enthusiast</h3>
+<h3 align="center">A mobile developer enthusiast</h3>
 
 - ✉️  You can contact me at [prayogisholihul@gmail.com](mailto:prayogisholihul@gmail.com)
 
